@@ -5,3 +5,4 @@ Exercicio 2 do modulo "Entendendo Metodos Java" da plataforma DIO.
 - quadrado;
 - retângulo;
 - trapézio;
+- losango;
